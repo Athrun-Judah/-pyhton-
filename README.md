@@ -1,4 +1,3 @@
-# -pyhton-
 # Analysis of consumer behavior
 
 首先读取数据，如果是xlxs文件需要注意解码的问题，这里我读取的是txt文件格式。

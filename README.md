@@ -96,7 +96,7 @@
 将数据转换为该区间内用户是否有消费，有消费的记为1，反之记为0。
 
 ![image](https://github.com/Athrun-Judah/-pyhton-/blob/main/cdnew_image/34.png)
-生成直方图可以看到，有11%的用户在第一次消费后的7~15天内会再次消费。有45%的用户在第一次消费后的90~180天内会再次消费。有67%的用户在第一次消费后的180~365天内会再次消费。
+生成直方图可以看到，有11%的用户在第一次消费后的7-15天内会再次消费。有45%的用户在第一次消费后的90-180天内会再次消费。有67%的用户在第一次消费后的180-365天内会再次消费。
 
 ![image](https://github.com/Athrun-Judah/-pyhton-/blob/main/cdnew_image/35.png)      ![image](https://github.com/Athrun-Judah/-pyhton-/blob/main/cdnew_image/36.png)
 计算用户上下两次消费的时间间隔和平均消费时间。平均消费时间间隔是93天，可以设置90天召回用户。
